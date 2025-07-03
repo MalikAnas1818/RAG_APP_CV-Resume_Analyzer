@@ -1,6 +1,6 @@
 # 🤖 Resume Analyzer AI (Langchain + Groq + Flask)
 
-An intelligent Resume Analyzer web application that matches candidate resumes against job descriptions using cutting-edge LLMs. Built using **Langchain**, **Groq (LLaMA3)**, **Flask**, and **HuggingFace Embeddings**.
+###### An intelligent Resume Analyzer web application that matches candidate resumes against job descriptions using cutting-edge LLMs. Built using **Langchain**, **Groq (LLaMA3)**, **Flask**, and **HuggingFace Embeddings**.
 
 ---
 
@@ -36,16 +36,25 @@ An intelligent Resume Analyzer web application that matches candidate resumes ag
 ## 📁 Folder Structure
 
 # Resuma_Analyzer/
-│
+
 ├── app.py # Flask web interface
+
 ├── cv_analyzer.py # Core logic (Langchain chains)
+
 ├── helper.py # Helper functions (embedding, parsing)
+
 ├── resume_parser.py # Output parser using Pydantic
+
 ├── Uploads_Files/ # Folder where resumes are uploaded
-├── templates/
+
+├── templates/ 
+
 │ └── index.html # Simple HTML interface
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project report
+
 
 ---
 
