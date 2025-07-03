@@ -110,3 +110,4 @@ Visit 👉 http://127.0.0.1:5000 in your browser.
 # 🧑‍💻 Author
 ## Made with ❤️ by Malik Anas
 ## For demo, freelance or enterprise use.
+https://github.com/user-attachments/assets/475783d4-3ab2-4a36-83c6-354f07fa22ec
