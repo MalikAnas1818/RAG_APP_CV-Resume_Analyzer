@@ -52,7 +52,6 @@ An intelligent Resume Analyzer web application that matches candidate resumes ag
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repo
-```bash
 git clone https://github.com/your-username/resume-analyzer.git
 cd resume-analyzer
 
